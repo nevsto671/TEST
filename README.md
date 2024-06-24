@@ -1,2 +1,2 @@
 # TEST
-Test for git command CLI. 
+Test for git command demostration. 
